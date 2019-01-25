@@ -1,0 +1,3 @@
+[submodule "NetOps"]
+	path = NetOps
+	url = https://github.com/boeyeb/NetOps.git
